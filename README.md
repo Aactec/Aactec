@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Front-end Design, UI/UX, Data analysis, and Graphic design.
 - 🌱 I’m currently learning Html, Css, Javascript, Figma.
 - 💞️ I’m looking to collaborate on My new project coming out soon.
-- 📫 How to reach me: You can contact me through my gmail( aacrajitech2024@gmail.com ).
+- 📫 You can reach me through contact my mail(aacrajitech2024@gmail.com).
 
 <!---
 Aactec/Aactec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
