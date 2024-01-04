@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aactec
-- 👀 I’m interested in Web Front-end Design, UI/UX, Data analysis, and Graphic design.
-- 🌱 I’m currently learning Html, Css, Javascript, Figma.
+- 👀 I’m interested in Web Front-end Design. 
+- 🌱 I’m currently learning Html, Css, Javascript, and React Js. 
 - 💞️ I’m looking to collaborate on My new project coming out soon.
 - 📫 You can reach me through contact my mail(aacrajitech2024@gmail.com).
 
